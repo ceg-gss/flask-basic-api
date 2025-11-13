@@ -6,10 +6,6 @@ A minimal Flask API demonstrating how to create a simple endpoint in Python. Thi
 
 Install Flask:
 
-Run the app:
 
-Visit the endpoint in your browser:
-
-http://127.0.0.1:5000/hello
 
 
