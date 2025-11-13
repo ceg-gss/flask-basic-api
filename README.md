@@ -1,2 +1,15 @@
-# flask-basic-api
-Simple Flask API with one route showing how to structure a basic Python web service.
+# Flask Basic API
+
+A minimal Flask API demonstrating how to create a simple endpoint in Python. This project shows the structure of a lightweight Flask application for testing or small utilities.
+
+## How to Run
+
+Install Flask:
+
+Run the app:
+
+Visit the endpoint in your browser:
+
+http://127.0.0.1:5000/hello
+
+
